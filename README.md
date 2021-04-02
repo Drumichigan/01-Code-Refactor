@@ -23,7 +23,7 @@ Lessons Learned:
 
 ## Website URL:
 
-https://https://drumichigan.github.io/01-Code-Refactor/
+https://drumichigan.github.io/01-Code-Refactor/
 
 ## Screenshot:
 
