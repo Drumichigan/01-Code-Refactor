@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Styling for top of page*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ header {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Styling for navigation bar with links*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*Styling for main image, co-workers around table working*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Styling for sidebar*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*First section of website*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Second section of website*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Third section of website*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,8 +187,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/*Styling for bottom of the page*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
