@@ -15,7 +15,7 @@ header {
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 /*Styling for sidebar*/
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -195,6 +195,6 @@ footer {
     text-align: center;
 }
 
-.footer h2 {
+footer h4 {
     font-size: 20px;
 }
